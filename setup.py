@@ -79,7 +79,8 @@ setup(
     # your project is installed. For an analysis of "install_requires" vs pip's
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['peppercorn', 'lasio==0.11.2', 'keras==1.2.0', 'tensorflow==0.12.1'],
+    # install_requires=['peppercorn', 'lasio==0.11.2', 'keras==1.2.0', 'tensorflow==0.12.1'],
+    install_requires=['peppercorn', 'tensorflow==0.12.1'],
 
     # List additional groups of dependencies here (e.g. development
     # dependencies). You can install these using the following syntax,
