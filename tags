@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+__init__.py	sample/__init__.py	1;"	kind:file	line:1
+__init__.py	tests/__init__.py	1;"	kind:file	line:1
+author	setup.py	/^    author='The Python Packaging Authority',$/;"	kind:variable	line:35
+author_email	setup.py	/^    author_email='pypa-dev@googlegroups.com',$/;"	kind:variable	line:36
+classifiers	setup.py	/^    classifiers=[$/;"	kind:variable	line:42
+data_files	setup.py	/^    data_files=[('my_data', ['data\/data_file'])],$/;"	kind:variable	line:104
+description	setup.py	/^    description='A sample Python project',$/;"	kind:variable	line:28
+entry_points	setup.py	/^    entry_points={$/;"	kind:variable	line:109
+extras_require	setup.py	/^    extras_require={$/;"	kind:variable	line:88
+here	setup.py	/^here = path.abspath(path.dirname(__file__))$/;"	kind:variable	line:14
+install_requires	setup.py	/^    install_requires=['peppercorn'],$/;"	kind:variable	line:82
+keywords	setup.py	/^    keywords='sample setuptools development',$/;"	kind:variable	line:68
+license	setup.py	/^    license='MIT',$/;"	kind:variable	line:39
+long_description	setup.py	/^    long_description = f.read()$/;"	kind:variable	line:18
+long_description	setup.py	/^    long_description=long_description,$/;"	kind:variable	line:29
+main	sample/__init__.py	/^def main():$/;"	kind:function	line:2
+name	setup.py	/^    name='sample',$/;"	kind:variable	line:21
+package_data	setup.py	/^    package_data={$/;"	kind:variable	line:96
+packages	setup.py	/^    packages=find_packages(exclude=['contrib', 'docs', 'tests']),$/;"	kind:variable	line:72
+setup.py	setup.py	1;"	kind:file	line:1
+test_simple.py	tests/test_simple.py	1;"	kind:file	line:1
+test_success	tests/test_simple.py	/^def test_success():$/;"	kind:function	line:6
+url	setup.py	/^    url='https:\/\/github.com\/pypa\/sampleproject',$/;"	kind:variable	line:32
+version	setup.py	/^    version='1.2.0',$/;"	kind:variable	line:26
